@@ -6,4 +6,4 @@ I sometimes feel when someone asks me to play a game with them.
 
 This is made with twine engine and the magic of JavaScript/HTML/CSS.
 
-(Play)[http://kaira.one/chttng]
+[Play](http://kaira.one/chttng)
